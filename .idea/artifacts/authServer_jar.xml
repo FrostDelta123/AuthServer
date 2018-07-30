@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="authServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/authServer_jar</output-path>
+    <root id="archive" name="authServer.jar">
+      <element id="module-output" name="authServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JDBC/mysql-connector-java-5.1.46-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
